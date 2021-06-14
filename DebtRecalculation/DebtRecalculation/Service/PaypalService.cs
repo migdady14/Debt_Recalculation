@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace DebtRecalculation.Service
+﻿namespace DebtRecalculation.Service
 {
     class PaypalService : IOnlinePaymentService
     {

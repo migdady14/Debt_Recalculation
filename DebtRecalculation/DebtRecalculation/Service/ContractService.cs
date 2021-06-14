@@ -1,5 +1,4 @@
 ﻿using DebtRecalculation.Entites;
-using System;
 
 namespace DebtRecalculation.Service
 {
